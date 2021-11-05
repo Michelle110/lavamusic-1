@@ -12,10 +12,10 @@
     
     {
      
-      "host": "disbotlistlavalink.ml",
-      "port": 443,
-      "password": "LAVA",
-      "identifier": "DisBotlist Lavalink",
+      "host": "lavalinknl.ml",
+      "port": 2333,
+      "password": "Raccoon",
+      "identifier": "Lavalink",
       "retryDelay": 3000,
       "secure": true
     
